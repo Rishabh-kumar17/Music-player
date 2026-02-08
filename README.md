@@ -1,1 +1,1 @@
-https://sketcher-1.github.io/Music-player/
+https://rishabh-kumar17.github.io/Music-player/
